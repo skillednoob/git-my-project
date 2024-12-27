@@ -1,4 +1,6 @@
 welcome to MyProject!
 
-Author:Amol dixit
+ 
+Author:Amol Jayanth dixit
+ 
 twitter:@1mol
