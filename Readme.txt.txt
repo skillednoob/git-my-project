@@ -1,4 +1,4 @@
 welcome to MyProject!
 
-Author:Amol
+Author:Amol dixit
 twitter:@1mol
