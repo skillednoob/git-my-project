@@ -1,4 +1,4 @@
 welcome to MyProject!
 
-Author:Amol
+Author:Amol Jayanth
 twitter:@1mol
