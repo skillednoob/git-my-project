@@ -1,4 +1,4 @@
-welcome to MyProject!
+welcome to the "git for begnners" MyProject!
 
  
 Author:Amol Jayanth dixit
